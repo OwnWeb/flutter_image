@@ -6,6 +6,7 @@ author: Flutter Team <flutter-dev@googlegroups.com>
 homepage: https://github.com/flutter/flutter_image
 
 dependencies:
+  dio: ^3.0.9
   flutter:
     sdk: flutter
 
